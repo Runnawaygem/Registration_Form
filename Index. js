@@ -1,4 +1,3 @@
-
 const form = document.querySelector(".form");
 const btn = document.querySelector(".button");
 const firstName = document.querySelector(".first-name");
